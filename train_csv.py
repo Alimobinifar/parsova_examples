@@ -11,4 +11,4 @@ with open(file_url,'r') as f :
 
 with open (file_url,'a') as f:
     writer=csv.writer(f)
-    writer.writerow(['mohsen','modhej',63])
+    writer.writerow(['mohsen','hamidi',63])

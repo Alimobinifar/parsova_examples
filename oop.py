@@ -1,5 +1,7 @@
 
 
+#multi inheritance 
+
 class dad :
     
     def __init__(self, dad_name) :
@@ -40,6 +42,7 @@ print(jack.mother())
 
 
 
+# Another example of multi inheritance
 
 class A:
     def __init__(self, name):
